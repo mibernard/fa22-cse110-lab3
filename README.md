@@ -1,1 +1,1 @@
-url: https://mibernard.github.io/lab2/
+url: https://mibernard.github.io/fa22-cse110-lab3/
