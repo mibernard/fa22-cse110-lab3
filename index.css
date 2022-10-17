@@ -1,0 +1,81 @@
+/* ELEMENTS */
+
+body {
+  margin-left: 5mm;
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: 0.5px;
+}
+
+div {
+  padding: 5px;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: overline;
+  /* position: sticky;
+  top: 20px; */
+}
+h2 {
+  color: rgb(96, 173, 96);
+  text-align: center;
+}
+
+section {
+  background-color: rgb(240, 204, 204);
+}
+
+fieldset {
+  width: 30pc;
+  /* text-align: center; */
+}
+
+form {
+  text-align: center;
+}
+
+span {
+  text-align: center;
+}
+
+button {
+  color: blueviolet;
+}
+
+button:hover {
+  color: white;
+}
+
+button:active {
+  box-shadow: 2px 2px 5px #fc894d;
+}
+
+/* IDS */
+#test {
+  color: darkgray;
+}
+
+#right {
+  text-align: right;
+  /* margin-right: 50px; */
+  margin: 0px 50px 0px 0px;
+}
+
+#display {
+  display: block;
+}
+
+#padding {
+  padding: 5px 5px 5px 5px;
+}
+
+/* CLASSES */
+.twoColGrid {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.sticky {
+  position: sticky;
+  top: 20px;
+}
